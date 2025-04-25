@@ -1,0 +1,13 @@
+@font-face{
+    font-family: Literata;
+    src: url(Literata-VariableFont_opsz\,wght.ttf);
+}
+.container{
+    font-size: 1.3rem;
+    margin-left: 30px;
+    font-family: Literata;
+    padding-left: 100px;
+}
+p {
+    text-align: justify; /* Выравнивание текста по ширине */
+  }
